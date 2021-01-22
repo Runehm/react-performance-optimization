@@ -14,3 +14,4 @@ const List = React.memo(({ getItems }) => {
 })
 
 export default List;
+

@@ -1,4 +1,10 @@
-# New Project
+# React Performance Optimization
+
+small demo app to illustrate the usecases of useMemo, useCallback and React.memo
+
+Get started by running: 
+
+npm install and npm start
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
@@ -19,7 +25,3 @@ Your app is ready to be deployed!
 
 **For the best production performance:** Add a build bundler plugin like "@snowpack/plugin-webpack" to your `snowpack.config.js` config file.
 
-### npm test
-
-Launches the application test runner.
-Run with the `--watch` flag (`npm test -- --watch`) to run in interactive watch mode.
